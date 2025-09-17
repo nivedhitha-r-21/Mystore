@@ -8,6 +8,7 @@ class MystorenivApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("testing started");
 	}
 
 }
